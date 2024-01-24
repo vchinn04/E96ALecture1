@@ -293,6 +293,17 @@
                     "action": "Flatten",
                     "isComposite": false,
                     "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "9cbd4f1a-068d-4809-a294-40196e681418",
+                    "path": "<Keyboard>/rightShift",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Flatten",
+                    "isComposite": false,
+                    "isPartOfComposite": false
                 }
             ]
         },
